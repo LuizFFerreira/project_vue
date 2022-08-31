@@ -1,4 +1,6 @@
 # project_vue
+Projeto realizado no curso de vue do canal "Matheus Battisti - Hora de Codar" no youtube.
+
 
 ## Project setup
 ```
